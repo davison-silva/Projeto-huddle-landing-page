@@ -8,9 +8,9 @@
 
 ## Objetivos 🎯
 
-- Construir um layout de uma página onde o usuario passar utilizar na versão desktop e mobile.
-- utilização de elementos interativos.
-- Usando HTML e CSS.
+- Construir um layout para uma página que o usuário possa utilizar tanto na versão desktop quanto na versão mobile.
+- Utilização de elementos interativos.
+- utilizando HTML e CSS.
 
 ## Screenshots
 
@@ -24,7 +24,11 @@
 
 ### Elementos interativos
 
-Os elementos interativos usados como monstrado nas imagens acima, são feitos usado pseudo-classe (:hover).
+Os elementos interativos, como mostrado nas imagens acima, são criados utilizando pseudo-classes (:hover).
+
+### Link do site
+
+https://davison-silva.github.io/Projeto-huddle-landing-page/
 
 ## Processo
 
