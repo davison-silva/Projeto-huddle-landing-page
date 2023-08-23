@@ -1,0 +1,40 @@
+@media (max-width: 800px){
+    body{
+        background: url('../images/bg-mobile.svg') top center no-repeat;
+        background-color: hsl(257, 40%, 49%);
+        max-width: 375px;
+    }
+
+    .header img{
+        max-width: 150px;
+    }
+
+    .header{
+        padding: 30px 50px 45px;
+    }
+
+    .container{
+        grid-template-columns: repeat(1, 2fr);
+        padding: 0 50px;
+    }
+
+    .container-right h2{
+        font-size: 25px;
+    }
+
+    .container-right h2,p{
+        text-align: center;
+    }
+
+    .container-right .btn{
+        max-width: 200px;
+        margin-top: 30px;
+        margin-left: 40px;
+    }
+
+    .footer{
+        margin: 80px 0 50px;
+        padding: 0;
+        align-self: center;
+    }
+}
